@@ -1,12 +1,12 @@
 ### Hey, I'm Jihyun 😸
 
-I'm currently an undergrad student pursuing a Life Sciences and Statistics dual degree in Seoul, South Korea 🇰🇷\
+I'm currently an undergrad student pursuing a Life Sciences 🧬 and Statistics 📊 dual degree in Seoul, South Korea 🇰🇷\
 I strive to become a data science expert that interprets the data and communicate it with great storytelling strategies.
 - Check out my [blog](https://jihyunsviews.substack.com/) where I keep record of my journey.
  
 ### 📦 Toolbox
 
-**Data Analysis and Visualization**: R, Python
+**Data Analysis and Visualization**: Python, R, SQL
  
 ### ✨ Fun Facts 
 
