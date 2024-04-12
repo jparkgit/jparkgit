@@ -1,17 +1,19 @@
 ### Hey, I'm Jihyun 😸
 
-I'm currently an undergrad student pursuing a Life Sciences and Statistics dual degree in Seoul, South Korea 🇰🇷
-I'm deeply fascinated by how our current technology allows us to dive into big data and use it for further advancement.
-
-- Check out my
+I'm currently an undergrad student pursuing a Life Sciences and Statistics dual degree in Seoul, South Korea 🇰🇷\
+I strive to become a data science expert that interprets the data and communicate it with great storytelling strategies.
+- Check out my [blog](https://jihyunsviews.substack.com/) where I keep record of my journey.
  
 ## 📦 Toolbox
 
-
+**Data Analysis and Visualization**\
+- R
+- Python
  
 ## ✨ Fun Facts 
 
-
+- I love playing the electric guitar, you can check out my stuff on [Instagram](http://instagram.com/jihyunsmusic/) and [YouTube](https://www.youtube.com/@jihyunsmusic)!
 
 ## 📫 Contact
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/0010jpark/)
