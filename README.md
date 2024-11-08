@@ -11,7 +11,7 @@ I strive to make impact as an interdisciplinarian across life sciences, data sci
  
 ### ✨ Fun Facts 
 
-- I love playing the electric guitar, you can check out my stuff on [Instagram](http://instagram.com/jihyunsmusic/) and [YouTube](https://www.youtube.com/@jihyunsmusic)!
+- I love playing the electric guitar, you can check out my stuff on [YouTube](https://www.youtube.com/@jihyunsmusic)!
 
 ### 📫 Contact
 
